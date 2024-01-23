@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/AshwinPavanKadha/AshwinPavanKadha/blob/root/media/images/banner.jpg)](https://AshwinPavanKadha.github.io/)
+[![MasterHead](https://github.com/AshwinPavanKadha/AshwinPavanKadha/blob/main/media/images/banner.jpg)](https://AshwinPavanKadha.github.io/)
 
 
 <h1 align="center">Hi 👋, I'm AshwinPavanKadha</h1>
