@@ -1,24 +1,31 @@
-### Hi there 👋
+[![MasterHead](https://github.com/AshwinPavanKadha/AshwinPavanKadha/blob/root/media/images/banner.jpg)](https://AshwinPavanKadha.github.io/)
 
-- 🔭 I’m currently working on Data Analysis Projects
-- 🌱 I’m currently learning Numpy, Pandas libraries , SQL , POwer BI, 
-- 👯 I’m looking to collaborate on various data domain projects
-- 🤔 I’m looking for help with 
-- 💬 Ask me about Business soltuions from raw data
-- 📫 How to reach me: https://www.linkedin.com/in/ashwin-pavan-kadha/ 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Data won't lies
-<!--
-**AshwinPavanKadha/AshwinPavanKadha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm AshwinPavanKadha</h1>
+<h3 align="center">An aspiring data analyst</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+- 🔭 I’m currently working on **Data Analysis Projects**
+
+- 🌱 I’m currently learning **Numpy, Pandas libraries , SQL , POwer BI**
+
+- 👯 I’m looking to collaborate on **on various data domain projects**
+
+- 💬 Ask me about **Business soltuions from raw data**
+
+- 📫 How to reach me **aswinpavankadha@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashwin-pavan-kadha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashwin-pavan-kadha/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinpavankadha&" alt="ashwinpavankadha" /></p>
+
+
+
