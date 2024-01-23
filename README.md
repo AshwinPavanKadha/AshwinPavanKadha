@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/AshwinPavanKadha/AshwinPavanKadha/blob/main/media/images/banner.jpg)](https://AshwinPavanKadha.github.io/)
 
 
-<h1 align="center">Hi 👋, I'm AshwinPavanKadha</h1>
+<h1 align="center">Hi 👋, I'm Ashwin </h1>
 <h3 align="center">An aspiring data analyst</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
