@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Data Analysis Projects
+- 🌱 I’m currently learning Numpy, Pandas libraries , SQL , POwer BI, 
+- 👯 I’m looking to collaborate on various data domain projects
+- 🤔 I’m looking for help with 
+- 💬 Ask me about Business soltuions from raw data
+- 📫 How to reach me: https://www.linkedin.com/in/ashwin-pavan-kadha/ 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Data won't lies
 <!--
 **AshwinPavanKadha/AshwinPavanKadha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
